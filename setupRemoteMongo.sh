@@ -1,0 +1,1 @@
+mongoimport --uri '' --drop --collection videos --file data/export_xflix_videos.json
